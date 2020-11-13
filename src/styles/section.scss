@@ -1,9 +1,0 @@
-.section {
-  max-width: $max-width;
-  padding: 0 $side-indent-large $section-bottom-indent-large;
-  margin: 0 auto;
-
-  @media (max-width: $breakpoint-small) {
-    padding: 0 $side-indent-small $section-bottom-indent-small;
-  }
-}
